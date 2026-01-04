@@ -1,0 +1,8 @@
+# Default ignored files
+/../../gRPC /.idea/shelf/
+/../../gRPC /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../gRPC /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../gRPC /.idea/dataSources/
+/../../gRPC /.idea/dataSources.local.xml
